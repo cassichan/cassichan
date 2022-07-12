@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cassichan
+- 👋 Hi, I’m Cassandra
 - 👀 I’m interested in learning skills to become a full stack developer
 - 🌱 I’m currently learning Basic Javascript
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/cassandra-l-curcio/
