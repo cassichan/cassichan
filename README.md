@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cassandra
-- 👀 I’m interested in learning skills to become a full stack developer
-- 🌱 I’m currently learning Basic Javascript
+- 👀 I’m currently a full stack developer bootcamp student
+- 🌱 I'm learning something new everyday and I love it!
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/cassandra-l-curcio/
 
 <!---
