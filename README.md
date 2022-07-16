@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cassandra
-- 👀 I’m currently a full stack developer bootcamp student
-- 🌱 I'm learning something new everyday and I love it!
+- 👀 I’m currently a full stack web developer bootcamp student
+- 🌱 I love to learn new things and constantly am trying to grow and improve
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/cassandra-l-curcio/
 
 <!---
