@@ -4,7 +4,7 @@ Hi 👋 My name is Cassandra Curcio
 Aspiring software developer
 ---------------------------
 
-I had been learning to code slowly at home while working full-time as a Registered Nurse. I finally took some major steps and am proud to say I am transitioning careers. I am currently enrolled in a full-stack software development boot camp. I've dabbled a bit with HTML and CSS, but am currently enjoying Javscript the most so far!
+I had been learning to code slowly at home while working full-time as a Registered Nurse. I finally took some major steps and am proud to say I am transitioning careers to software development! I am currently enrolled in a full-stack software development boot camp. I've dabbled a bit with HTML and CSS, but am currently enjoying Javscript the most so far.
 <br><br> Aside from coding, I love to spend time with my 2 cats, appreciate nature, game, and do food-related activities (eat, cook, bake, read about food/watch cooking shows, you name it)!
 
 *   🌍  I'm based in Florida
