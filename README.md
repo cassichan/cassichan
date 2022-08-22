@@ -9,7 +9,7 @@ I had been learning to code  at home while working full-time as a Registered Nur
 
 *   🌍  I'm based in Florida
 *   ✉️  You can contact me at [cassandra.curcio@gmail.com](mailto:cassandra.curcio@gmail.com)
-*   🧠  I'm currently learning React and React Native
+*   🧠  I'm currently learning React, React Native and TypeScript
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I am constantly striving to learn and grow
 
