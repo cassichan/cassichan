@@ -1,7 +1,7 @@
 Hi 👋 My name is Cassandra Curcio
 =================================
 
-Aspiring software developer
+Software developer
 ---------------------------
 
 I had been learning to code  at home while working full-time as a Registered Nurse. I finally took some major steps and am proud to say I am now a full-stack software developer! LOVE javascript.
