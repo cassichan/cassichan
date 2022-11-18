@@ -1,11 +1,8 @@
 Hi 👋 My name is Cassandra Curcio
 =================================
 
-Software developer
+Software developer. Human advocate. Animal lover. Foodie.
 ---------------------------
-
-I had been learning to code  at home while working full-time as a Registered Nurse. I finally took some major steps and am proud to say I am now a full-stack software developer! LOVE javascript.
-<br><br> Aside from coding, I love to spend time with my 2 cats, appreciate nature, game, and do food-related activities (eat, cook, bake, read about food/watch cooking shows, you name it)!
 
 *   🌍  I'm based in Florida
 *   ✉️  You can contact me at [cassandra.curcio@gmail.com](mailto:cassandra.curcio@gmail.com)
