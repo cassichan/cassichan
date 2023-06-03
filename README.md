@@ -1,4 +1,4 @@
-Hi 👋 My name is Cassandra Curcio
+Hi there 👋 I'm Cassandra
 =================================
 
 Software developer. Human advocate. Animal lover. Foodie.
