@@ -24,8 +24,13 @@ Software developer. Human advocate. Animal lover. Foodie.
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-</p>
-                    
+ <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://wac-cdn.atlassian.com/dam/jcr:0b915e87-bb12-4795-8d4a-966ce618f2c0/Jira%20Software-icon-blue.svg?cdnVersion=1127" width="36" height="36" alt="Jira" /></a>
+ <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://wac-cdn.atlassian.com/dam/jcr:92ef2643-e896-40fd-908c-92bc119293c4/Trello-icon-blue.svg?cdnVersion=1127" width="36" height="36" alt="Trello" /></a>
+ <br/>
+ <a href="https://app.asana.com/" target="_blank" rel="noreferrer"><img src="https://assets.asana.biz/m/33894bfde787fd8e/original/trademark-logo-color-dark-2x.png" alt="Asana" width="10%" height="auto"/></a>
+ </p>
+<!--  <a href="https://clickup.com/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="ClickUp" /></a> -->
+
 ### Socials
                 
 <p align="left">
