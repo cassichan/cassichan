@@ -29,7 +29,6 @@ Software developer. Human advocate. Animal lover. Foodie.
  <br/>
  <a href="https://app.asana.com/" target="_blank" rel="noreferrer"><img src="https://assets.asana.biz/m/33894bfde787fd8e/original/trademark-logo-color-dark-2x.png" alt="Asana" width="10%" height="auto"/></a>
  </p>
-<!--  <a href="https://clickup.com/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="ClickUp" /></a> -->
 
 ### Socials
                 
