@@ -6,9 +6,7 @@ Software developer. Human advocate. Animal lover. Foodie.
 
 *   🌍  I'm based in Florida
 *   ✉️  You can contact me at [cassandra.curcio@gmail.com](mailto:cassandra.curcio@gmail.com)
-*   🧠  I'm currently working in Angular and NestJS 😻
 *   🤝  I'm open to collaborating on interesting projects that make a difference
-*   ⚡  I am constantly striving to learn new technologies and best practices 💻
 
 ### Skills
 
